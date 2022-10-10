@@ -32,6 +32,9 @@ section{
     transform: translate(-50%, -50%);
 }
 
+select#flista{
+    width: 235px;
+}
 
 footer{
     position: absolute;
