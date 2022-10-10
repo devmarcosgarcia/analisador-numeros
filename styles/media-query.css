@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+    
+    header > h1{
+        padding-top: 50px;
+        font-size: 40px;
+    }
+    
+    section{
+        width: 520px;
+        height: 600px;
+        
+    }
+    
+       
+    footer a:hover{
+        
+        color: rgb(197, 197, 197);
+    }
+
+}
